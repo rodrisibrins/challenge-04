@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="4">
+
+  <testsuite name="getInTouchForm"
+    errors="0" failures="0" hostname="" id="" package="getInTouchForm" skipped="0"
+    tests="4" time="28.80" timestamp="">
+  
+    <testcase name="Get in touch form" classname="getInTouchForm" time="9.544" assertions="0">
+    </testcase>
+  
+    <testcase name="Check Get in touch popup is visible" classname="getInTouchForm" time="0.3060" assertions="4">
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Click on Send button with empty fields" classname="getInTouchForm" time="2.215" assertions="4">
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Check red border is not visible with valid data" classname="getInTouchForm" time="2.334" assertions="4">
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+    
+
+  
+  </testsuite>
+</testsuites>
